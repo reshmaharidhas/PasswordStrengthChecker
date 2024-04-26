@@ -3,6 +3,9 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FPasswordStrengthChecker&label=Visitors&labelColor=%2300ff00&countColor=%23000000&style=flat-square&labelStyle=none"/>
   <img src="https://img.shields.io/github/languages/top/reshmaharidhas/PasswordStrengthChecker?labelColor=%23000000&color=%230000FF"/>
   <img src="https://img.shields.io/github/languages/code-size/reshmaharidhas/PasswordStrengthChecker"/>
+  <img src="https://img.shields.io/github/repo-size/reshmaharidhas/PasswordStrengthChecker"/>
+  <img src="https://img.shields.io/github/v/release/reshmaharidhas/PasswordStrengthChecker"/>
+  <img src="https://img.shields.io/github/license/reshmaharidhas/PasswordStrengthChecker"/>
 </p>
 Python desktop application to check the strength of password. 
 
@@ -31,6 +34,10 @@ Python desktop application to check the strength of password.
 - Works offline without Internet connection
 
 ## Screenshots 💻
+![screenshot_2](https://github.com/reshmaharidhas/PasswordStrengthChecker/assets/37250413/c7648343-97f5-4fb2-8509-cc8e6738af39)
+![screenshot_3](https://github.com/reshmaharidhas/PasswordStrengthChecker/assets/37250413/c8a210df-cff4-4056-b9a5-db0cfd7177e1)
+![screenshot_4](https://github.com/reshmaharidhas/PasswordStrengthChecker/assets/37250413/f4d096a7-9ea0-44cf-85e5-f5f2f115b626)
+
 
 ## Tips to create very strong password 🔒
 - Ensure your password has a mix of alphabets, numbers and symbols randomly.
